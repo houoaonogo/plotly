@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'ted123'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4BFE02D6FDBE4C82ACB683FB53D2CE1B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E854C99A4EEA4E6B9B132483C0DAD1E1 }}
