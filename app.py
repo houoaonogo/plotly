@@ -118,7 +118,7 @@ def update_content(selected_tab):
                 html.A(html.Button('facebook'), href='https://www.facebook.com/?locale=zh_TW', target='_blank'),
                 html.A(html.Button('instagram'), href='https://www.instagram.com/', target='_blank'),
                 html.A(html.Button('proxima'), href='https://ai-nutc.tw/person_page/proxima.html', target='_blank'),
-                
+                html.A(html.Button('project'), href='https://project.cloudspace.com', target='_blank'),
                 # 新增 API 调用部分
                 html.Br(),
                 html.Label('API URL:'),
